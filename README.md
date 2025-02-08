@@ -1,4 +1,9 @@
 # codsoft_task4
+ame:MOHAMMAD SHEEBAN SHEIKH
+Company:CODSOFT
+ID:CS25NY370877
+Domain: Python Programming
+Duration: 10th January to 10th February
 
 🎮 Rock Paper Scissors Game using Python
 📌 Description
